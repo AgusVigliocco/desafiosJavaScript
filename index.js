@@ -1,5 +1,6 @@
-let max = 50;
-let min = 1;
+//programa para encontrar numeros primos o compuestos en los primeros 100 numeros
+let max = 100;
+let min = 0;
 let c = max + 1;
 
 function primoCompuesto(dividendo, divisor, residuo) {
